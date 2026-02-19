@@ -12,9 +12,15 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3ff5b3ad3e59247bfcc474cf63d6f3bd7484c63d",
     "commitName": "feat: saludo formal para mayores de 30 y genero",
     "commitTimestamp": 1771466926643,
     "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: Correccion de parametros del saludador",
+    "commitTimestamp": 1771467423659,
+    "testId": 3
   }
 ]

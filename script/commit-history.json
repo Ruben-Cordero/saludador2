@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3ff5b3ad3e59247bfcc474cf63d6f3bd7484c63d",
     "author": "Rubén Cordero",
     "commit": {
       "date": "2026-02-19T02:08:44.000Z",
       "message": "feat: saludo formal para mayores de 30 y genero",
-      "url": "https://github.com/Ruben-Cordero/saludador2/commit/HEAD"
+      "url": "https://github.com/Ruben-Cordero/saludador2/commit/3ff5b3ad3e59247bfcc474cf63d6f3bd7484c63d"
     },
     "stats": {
       "total": 41,
@@ -55,5 +55,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Rubén Cordero",
+    "commit": {
+      "date": "2026-02-19T02:17:02.000Z",
+      "message": "fix: Correccion de parametros del saludador",
+      "url": "https://github.com/Ruben-Cordero/saludador2/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 1,
+      "deletions": 15,
+      "date": "2026-02-19"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
   }
 ]

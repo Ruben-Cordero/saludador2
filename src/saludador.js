@@ -1,4 +1,4 @@
-function saludar(nombre) {
+function saludar(nombre,genero,edad) {
   const fecha = new Date();
   const hora = fecha.getHours();
   let saludo = "Hola";
