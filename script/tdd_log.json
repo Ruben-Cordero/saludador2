@@ -18,9 +18,15 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e2d27fe112269e93e84d5e0cd490251863dab423",
     "commitName": "fix: Correccion de parametros del saludador",
     "commitTimestamp": 1771467423659,
     "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: soporte multi idioma es/en",
+    "commitTimestamp": 1771467747911,
+    "testId": 4
   }
 ]

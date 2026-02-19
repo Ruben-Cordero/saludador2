@@ -57,17 +57,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e2d27fe112269e93e84d5e0cd490251863dab423",
     "author": "Rubén Cordero",
     "commit": {
       "date": "2026-02-19T02:17:02.000Z",
       "message": "fix: Correccion de parametros del saludador",
-      "url": "https://github.com/Ruben-Cordero/saludador2/commit/HEAD"
+      "url": "https://github.com/Ruben-Cordero/saludador2/commit/e2d27fe112269e93e84d5e0cd490251863dab423"
     },
     "stats": {
       "total": 16,
       "additions": 1,
       "deletions": 15,
+      "date": "2026-02-19"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Rubén Cordero",
+    "commit": {
+      "date": "2026-02-19T02:22:26.000Z",
+      "message": "feat: soporte multi idioma es/en",
+      "url": "https://github.com/Ruben-Cordero/saludador2/commit/HEAD"
+    },
+    "stats": {
+      "total": 45,
+      "additions": 29,
+      "deletions": 16,
       "date": "2026-02-19"
     },
     "coverage": 0,
