@@ -19,17 +19,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b32ff3c64b5fb12eda8d960f3ca16769882ae650",
     "author": "Rubén Cordero",
     "commit": {
       "date": "2026-02-19T01:58:12.000Z",
       "message": "feat: saludo automatico segun la hora",
-      "url": "https://github.com/Ruben-Cordero/saludador2/commit/HEAD"
+      "url": "https://github.com/Ruben-Cordero/saludador2/commit/b32ff3c64b5fb12eda8d960f3ca16769882ae650"
     },
     "stats": {
       "total": 17,
       "additions": 14,
       "deletions": 3,
+      "date": "2026-02-19"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Rubén Cordero",
+    "commit": {
+      "date": "2026-02-19T02:08:44.000Z",
+      "message": "feat: saludo formal para mayores de 30 y genero",
+      "url": "https://github.com/Ruben-Cordero/saludador2/commit/HEAD"
+    },
+    "stats": {
+      "total": 41,
+      "additions": 35,
+      "deletions": 6,
       "date": "2026-02-19"
     },
     "coverage": 100,

@@ -11,6 +11,14 @@ function saludar(nombre) {
     saludo = "Buenas noches";
   }
 
+  if (edad > 30) {
+    if (genero === "M") {
+      saludo = saludo + " Sr.";
+    } else {
+      saludo = saludo + " Sra.";
+    }
+  }
+
   return saludo + " " + nombre;
 }
 export default saludar;

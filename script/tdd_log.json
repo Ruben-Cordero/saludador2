@@ -6,9 +6,15 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b32ff3c64b5fb12eda8d960f3ca16769882ae650",
     "commitName": "feat: saludo automatico segun la hora",
     "commitTimestamp": 1771466294478,
     "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: saludo formal para mayores de 30 y genero",
+    "commitTimestamp": 1771466926643,
+    "testId": 2
   }
 ]
